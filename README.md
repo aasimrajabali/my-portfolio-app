@@ -21,5 +21,5 @@ At first I thought of just using a template for a portfolio website since it wou
 Coming Soon
 -----------
 (11/29/19)
-No those photos are not of me, will be uploading pics of myself soon onto the app
-Deployment of the app, hopefully coming soon and will be updated here.
+*No those photos are not of me, will be uploading pics of myself soon onto the app
+*Deployment of the app, hopefully coming soon and will be updated here.
