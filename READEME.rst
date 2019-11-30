@@ -9,7 +9,7 @@ Created using React.js and JSX, with HTML/Bootstrap v4
 
 Installation Instructions
 -------------------------
-* To run this project, follow these steps:
+To run this project, follow these steps:
 	1. Clone the repo using ``git clone``
 	2. navigate tothe folder ``my-portfolio-app``
 	3. run ``npm install`` to install node_modules
