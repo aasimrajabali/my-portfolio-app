@@ -17,3 +17,7 @@ Installation Instructions
 Credit
 ------
 At first I thought of just using a template for a portfolio website since it would be much easier and take less time. Seeing [this](https://colorlib.com/preview/#jackson) template made me realize how convoluted the html code was, and how the perfect opportunity for a project would be to re-create this template under React.js and add some elegance/neatness to the code with JSX.
+
+Coming Soon
+-----------
+Deployment of the app, hopefully coming soon and will be updated here.
