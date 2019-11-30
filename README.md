@@ -22,4 +22,5 @@ Coming Soon
 -----------
 (11/29/19)
 * No those photos are not of me, will be uploading pics of myself soon onto the app
-* Deployment of the app, hopefully coming soon and will be updated here.
+* Currently I havent added/redone some of the contents of the template, which explains why some links may not work or some parts of the site are innaccurate
+* Deployment of the app, hopefully coming soon and will be updated here
