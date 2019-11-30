@@ -10,11 +10,10 @@ Created using React.js and JSX, with HTML/Bootstrap v4
 Installation Instructions
 -------------------------
 To run this project, follow these steps:
-
-	- clone the repo using ``git clone``
-	- navigate tothe folder ``my-portfolio-app``
-	- run ``npm install`` to install node_modules
-	- run ``npm start`` to start the service on ``localhost:3000``
+	clone the repo using ``git clone``
+	navigate to the folder ``my-portfolio-app``
+	run ``npm install`` to install node_modules
+	run ``npm start`` to start the service on ``localhost:3000``
 
 Credit
 ------
