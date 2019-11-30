@@ -3,7 +3,7 @@ Website About Me
 
 Quick Description
 ------------------
-A lot of the time I hear people complain about how they cannot fit enough info about them on a resume. This website serves to show my career aspirations as well as jobs I've taken on in the past.
+A lot of the time I hear people complain about how they cannot fit enough info about them on a resume. When it comes down to it I'm absolutely one of those people, so this website serves to show my career aspirations as well as jobs I've taken on in the past. I also plan on adding more to this project then a typical resume would have, such as blogs, past work, etc.
 
 Created using React.js and JSX, with HTML/Bootstrap v4
 
