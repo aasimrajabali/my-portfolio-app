@@ -7,68 +7,28 @@ export default class Skills extends Component {
         <div className="colorlib-narrow-content">
           <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-              <h2 className="colorlib-heading animate-box fadeInUp animated">All Skills</h2>
+              <h2 className="colorlib-heading animate-box fadeInUp animated">More Skills</h2>
             </div>
           </div>
-          <div className="row">
+
+          <div className="row row-pt-md">
             <div className="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
               <div className="progress-wrap">
-                <h3>Photoshop</h3>
-                <div className="progress">
-                  <div className="progress-bar color-1" role="progressbar" aria-valuenow={75} aria-valuemin={0} aria-valuemax={100} style={{width: '75%'}}>
-                    <span>75%</span>
-                  </div>
-                </div>
+                <h3>JavaScript (ES6) <span className="icon"><i class="devicon-javascript-plain"></i></span></h3>
+                <h3>React (JSX) <span className="icon"><i className="devicon-react-original" /></span></h3>
+                <h3>HTML5 <span className="icon"><i className="icon-html-five2" /></span></h3>
+                <h3>CSS3 <span className="icon"><i className="icon-css3" /></span></h3>
+                <h3>Bootstrap <span className="icon"><i class="devicon-bootstrap-plain"></i></span></h3>
+                <h3>SQL (MySQL, PostgreSQL) <span className="icon"><i class="devicon-mysql-plain"></i> <i class="devicon-postgresql-plain"></i></span></h3>  
               </div>
             </div>
             <div className="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
               <div className="progress-wrap">
-                <h3>jQuery</h3>
-                <div className="progress">
-                  <div className="progress-bar color-2" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} style={{width: '60%'}}>
-                    <span>60%</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-              <div className="progress-wrap">
-                <h3>HTML5</h3>
-                <div className="progress">
-                  <div className="progress-bar color-3" role="progressbar" aria-valuenow={85} aria-valuemin={0} aria-valuemax={100} style={{width: '85%'}}>
-                    <span>85%</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
-              <div className="progress-wrap">
-                <h3>CSS3</h3>
-                <div className="progress">
-                  <div className="progress-bar color-4" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} style={{width: '90%'}}>
-                    <span>90%</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-              <div className="progress-wrap">
-                <h3>WordPress</h3>
-                <div className="progress">
-                  <div className="progress-bar color-5" role="progressbar" aria-valuenow={70} aria-valuemin={0} aria-valuemax={100} style={{width: '70%'}}>
-                    <span>70%</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
-              <div className="progress-wrap">
-                <h3>SEO</h3>
-                <div className="progress">
-                  <div className="progress-bar color-6" role="progressbar" aria-valuenow={80} aria-valuemin={0} aria-valuemax={100} style={{width: '80%'}}>
-                    <span>80%</span>
-                  </div>
-                </div>
+                <h3>Python(Flask,pandas,numpy,matplotlib) <span className="icon"><i class="devicon-python-plain"></i></span></h3>
+                <h3>Django <span className="icon"><i class="devicon-django-plain"></i></span></h3>
+                <h3>Linux (Ubuntu) <span className="icon"><i class="devicon-ubuntu-plain"></i></span></h3>
+                <h3>Microsoft Excel <span className="icon"><i className="icon-file-excel" /></span></h3>
+                <h3>Git <span className="icon"><i className="icon-git" /></span></h3>
               </div>
             </div>
           </div>

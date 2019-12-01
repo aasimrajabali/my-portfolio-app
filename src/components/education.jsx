@@ -17,7 +17,7 @@ export default class Education extends Component {
                   <div className="panel panel-default">
                     <div className="panel-heading" role="tab" id="headingOne">
                       <h4 className="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Bachelor's of Science in Mathematics
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Bachelor's of Science and Arts in Mathematics
                         </a>
                       </h4>
                     </div>
@@ -25,10 +25,10 @@ export default class Education extends Component {
                       <div className="panel-body">
                         <div className="row">
                           <div className="col-md-6">
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                            <p>Received December 2016 from The University of Texas at Austin.</p>
                           </div>
                           <div className="col-md-6">
-                            <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                            <p>The requirements for the bachelor of science and arts degree are designed to give each student an opportunity to combine a core mathematics or science experience with an interdisciplinary curriculum.</p>
                           </div>
                         </div>
                       </div>
@@ -43,11 +43,12 @@ export default class Education extends Component {
                     </div>
                     <div id="collapseTwo" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                       <div className="panel-body">
-                        <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                        <p>Received July 2016 from UT Austin: The Elements of Computing certificate program offers a set of courses intended to help students understand the sophisticated technologies they use everyday as well as gain the computer skills that employers value. The goals of the program are to:</p>
                         <ul>
-                          <li>Separated they live in Bookmarksgrove right</li>
-                          <li>Separated they live in Bookmarksgrove right</li>
+                          <li>Provide students with knowledge of computer science that employers find valuable</li>
+                          <li>Support study in other disciplines requiring computational proficiency</li>
                         </ul>
+                        <p><a href="./resume/cs_cert.pdf" download>Certificate</a></p>
                       </div>
                     </div>
                   </div>
@@ -60,7 +61,8 @@ export default class Education extends Component {
                     </div>
                     <div id="collapseThree" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                       <div className="panel-body">
-                        <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                        <p>Received January 2016 from UT Austin: The Texas Business Foundations Program gives undergraduate students from any discipline a fundamental background in business. This certificate program allows you to supplement a non-business course of study with the business knowledge necessary to turn your passion into a successful career.</p>
+                        <p><a href="./resume/bfp_cert.pdf" download>Certificate</a></p>
                       </div>
                     </div>
                   </div>
@@ -73,7 +75,8 @@ export default class Education extends Component {
                     </div>
                     <div id="collapseFour" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
                       <div className="panel-body">
-                        <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                        <p>Received October 2017 from Udemy: Learned how to read and write complex queries to a database using one of the most in demand skills - PostgreSQL. These skills are also applicable to any other major SQL database, such as MySQL, Microsoft SQL Server, Amazon Redshift, Oracle, and much more.</p>
+                        <p><a href="./resume/sql_cert.pdf" download>Certificate</a></p>
                       </div>
                     </div>
                   </div>

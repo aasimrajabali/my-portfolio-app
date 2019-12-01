@@ -23,17 +23,16 @@ export default class Sidebar extends Component {
 	                    <li><a href="#" data-nav-section="education">Education</a></li>
 	                    {/*<li><a href="#" data-nav-section="work">Work</a></li>
 	                    <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
-	                    <li><a href="#" data-nav-section="contact">Contact</a></li>
-	                  </ul>
+	                    <li><a href="#" data-nav-section="contact">Contact</a> </li>
+	                    <li><a href="#"><i className="icon-facebook2" /></a><span> </span>
+	                    	<a href="https://github.com/aasimrajabali" target="_blank"><i className="icon-github" /></a><span> </span>
+	                    	<a href="https://linkedin.com/in/aasimrajabali"><i className="icon-linkedin2" /></a>
+	                    </li>
+	     	          </ul>
 	                </div>
 	              </nav>
 	              <div className="colorlib-footer">
-	                
-	                <ul>
-	                  <li><a href="#"><i className="icon-facebook2" /></a></li>
-	                  <li><a href="#"><i className="icon-github" /></a></li>
-	                  <li><a href="#"><i className="icon-linkedin2" /></a></li>
-	                </ul>
+	                <span>Credit: <a href="https://colorlib.com/" target="_blank">Colorlib.com</a> for the inspiration</span>
 	              </div>
 	            </aside>
 	        
