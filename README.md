@@ -20,7 +20,9 @@ At first I thought of just using a template for a portfolio website since it wou
 
 Coming Soon
 -----------
-(11/29/19)
-* No those photos are not of me, will be uploading pics of myself soon onto the app
-* Currently I havent added/redone some of the contents of the template, which explains why some links may not work or some parts of the site are innaccurate
-* Deployment of the app, hopefully coming soon and will be updated here
+Changes 11/30
+
+* Added a css link for additional glyph icons
+* Added download links for resume and certifications
+* Filled the site with my own content to remove the template
+* Pics are still not of me, coming soon
